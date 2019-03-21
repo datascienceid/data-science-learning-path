@@ -69,7 +69,7 @@
 
 ## Chapter 02 - Feature Extraction
 1. Feature extraction
-2. Bag.of.words
+2. Bag of words
 3. Term Document matrix
 4. Term frequency and Weight
 5. TF-IDF
@@ -79,10 +79,10 @@
 2. Named Entity Recognition
 
 ## Chapter 04 - Text Classification
-1. Classify text
-2. binary.classification
-3. multi.class.classification
-4. multi.label.classification
+1. Overview Text Classification
+2. Binary Classification
+3. Multiclass Classification
+4. Multilabel Classification
 
 ## Chapter 05 - Deep NLP
 1. Information Retrieval
